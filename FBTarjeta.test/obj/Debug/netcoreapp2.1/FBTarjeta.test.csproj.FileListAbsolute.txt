@@ -1,0 +1,10 @@
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta.test\bin\Debug\netcoreapp2.1\FBTarjeta.test.deps.json
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta.test\bin\Debug\netcoreapp2.1\FBTarjeta.test.dll
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta.test\obj\Debug\netcoreapp2.1\FBTarjeta.test.csproj.CoreCompileInputs.cache
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta.test\obj\Debug\netcoreapp2.1\FBTarjeta.test.AssemblyInfoInputs.cache
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta.test\obj\Debug\netcoreapp2.1\FBTarjeta.test.AssemblyInfo.cs
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta.test\obj\Debug\netcoreapp2.1\FBTarjeta.test.csprojAssemblyReference.cache
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta.test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta.test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta.test\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta.test\bin\Debug\netcoreapp2.1\Mono.Cecil.dll

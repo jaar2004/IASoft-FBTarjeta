@@ -1,0 +1,13 @@
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\bin\Debug\netcoreapp2.1\FBTarjeta.deps.json
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\bin\Debug\netcoreapp2.1\FBTarjeta.runtimeconfig.json
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\bin\Debug\netcoreapp2.1\FBTarjeta.runtimeconfig.dev.json
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\bin\Debug\netcoreapp2.1\FBTarjeta.dll
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\bin\Debug\netcoreapp2.1\FBTarjeta.pdb
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\obj\Debug\netcoreapp2.1\FBTarjeta.csproj.CoreCompileInputs.cache
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\obj\Debug\netcoreapp2.1\FBTarjeta.RazorAssemblyInfo.cache
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\obj\Debug\netcoreapp2.1\FBTarjeta.RazorAssemblyInfo.cs
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\obj\Debug\netcoreapp2.1\FBTarjeta.AssemblyInfoInputs.cache
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\obj\Debug\netcoreapp2.1\FBTarjeta.AssemblyInfo.cs
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\obj\Debug\netcoreapp2.1\FBTarjeta.RazorTargetAssemblyInfo.cache
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\obj\Debug\netcoreapp2.1\FBTarjeta.dll
+D:\IAR\Angular\proyAngular\FETarjetaCredito\FBTarjeta\FBTarjeta\obj\Debug\netcoreapp2.1\FBTarjeta.pdb
